@@ -11,7 +11,7 @@ EveryCode is an AI-based code generation tool that can migrate code across langu
 1. Clone the repository:
 
 ````
-git clone https://github.com/techmaxima/everycode.git
+git clone https://github.com/DivinerX/OpenAI-EveryCode
 ````
 
 2. Install the dependencies:
