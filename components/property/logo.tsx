@@ -7,6 +7,6 @@ export const AcmeLogo = () => (
       xmlns="http://www.w3.org/2000/svg"
    >
 
-      <image href="codemaxima_logo.png" width="95%" height="100%" />
+      <image href="everycode_logo.png" width="95%" height="100%" />
    </svg>
 );
